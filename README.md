@@ -2,6 +2,10 @@
 
 A simple and elegant Notes application built with **React** and **Tailwind CSS**, allowing users to quickly add, view, and delete notes in a clean sticky-note style UI.
 
+## Live Site
+
+- [Live link](https://ashutosht0210.github.io/Notes-App/)
+
 ## ✨ Features
 
 - ➕ **Add Notes** — Create notes with a heading and detailed description.
